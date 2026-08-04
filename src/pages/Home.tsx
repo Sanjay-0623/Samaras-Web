@@ -406,7 +406,10 @@ export default function Home() {
             className="absolute inset-0 w-full h-full object-cover hero-video"
             style={{ transform: "translateZ(0)" }}
           >
-            <source src="/videos/hero.mp4" type="video/mp4" />
+            <source
+            src="https://res.cloudinary.com/dxesncdb/video/upload/v1785854067/hero_cvakc0.mp4"
+            type="video/mp4"
+            />
           </video>
         </motion.div>
 

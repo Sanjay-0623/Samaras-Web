@@ -1,0 +1,136 @@
+Update the existing restaurant website with the following changes. Do NOT rebuild the project from scratch. Modify the current pages and components.
+
+RESTAURANT NAME UPDATE
+
+Change the restaurant name everywhere in the website to:
+
+Samara's Veg
+
+Update this in:
+• Hero section
+• Header
+• Footer
+• Page titles
+• Meta title
+• Any placeholder text
+
+HERO SECTION
+
+Update the hero section on the home page.
+
+Requirements:
+• Add a high-quality background image related to Indian vegetarian food.
+• Apply a dark overlay so the text remains readable.
+• Keep the animated headline effect.
+
+Headline example:
+"Samara's Veg – Authentic Indian Vegetarian Flavours"
+
+Maintain CTA buttons but keep the design elegant.
+
+HOME PAGE CONTENT IMPROVEMENT
+Add more informative sections to the home page.
+Add the following sections with images:
+SECTION 1 – ABOUT SAMARA'S VEG
+
+Heading:
+"Welcome to Samara's Veg"
+
+Include a paragraph describing the restaurant as a place serving authentic Indian vegetarian cuisine with traditional flavours.
+Add an image of Indian vegetarian dishes.
+
+SECTION 2 – OUR SPECIALITY
+
+Create a section highlighting special qualities of the restaurant.
+
+Example cards:
+• Pure Vegetarian Cuisine
+• Authentic Indian Flavours
+• Fresh Ingredients
+• Comfortable Dining Experience
+
+Each card should include an icon and subtle animation.
+
+SECTION 3 – SIGNATURE DISHES
+
+Add a showcase section with images of Indian vegetarian dishes.
+
+Display cards with:
+• Dish image
+• Dish name
+• Short description
+
+IMPORTANT:
+Do NOT display prices.
+
+FOOD MENU PAGE
+
+Update the food menu page.
+
+Requirements:
+
+• All dishes must be Indian vegetarian dishes.
+• Remove price fields completely.
+• Remove any "Order Now" button.
+• Only display:
+
+* Dish image
+* Dish name
+* Short description
+
+Examples of dishes to include:
+Paneer Butter Masala
+Masala Dosa
+Veg Biryani
+Chole Bhature
+Palak Paneer
+Veg Fried Rice
+Dal Tadka
+Veg Thali
+
+Use an elegant grid layout with hover animations.
+
+SERVICES PAGE
+
+Update service cards such as:
+• Dine In
+• Takeaway
+• Catering
+
+Buttons such as:
+Learn More
+Inquire Now
+
+When clicked they must navigate to the **Contact Us page**.
+
+CONTACT PAGE UPDATE
+
+Update contact details.
+
+Phone Number:
++91 8951454455
+
+Address link:
+https://maps.app.goo.gl/nZhwxaGPvhtRrkhKA?g_st=iw
+
+When users click the address it should open Google Maps in a new tab.
+Display the location clearly with a map icon.
+
+WHATSAPP BUTTON
+
+Ensure the floating WhatsApp button uses the same phone number:
++91 8951454455
+
+REVIEWS PAGE
+
+Keep the Google reviews page.
+Continue filtering reviews so only reviews with **4 stars and above** are displayed.
+
+GENERAL DESIGN
+
+Maintain:
+• Orange (#FF7A00) and White theme
+• Smooth animations
+• Premium restaurant UI
+• Mobile responsive layout
+• Framer Motion animations

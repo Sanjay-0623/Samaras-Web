@@ -1,0 +1,139 @@
+Upgrade the existing Samaras restaurant website to look like a high-end luxury restaurant website.
+
+Do NOT change the existing page structure or routing.
+
+Pages already exist:
+Home
+Food Menu
+Services
+Contact
+
+Enhance the visual design, animations, and overall user experience.
+
+
+DESIGN UPGRADE
+
+Make the UI feel like a premium luxury restaurant brand.
+
+Add:
+
+• Large elegant typography
+• Premium spacing and layout
+• Glassmorphism UI cards
+• Soft shadows and depth
+• Smooth gradients using orange and white tones
+
+Improve color usage:
+
+Primary: #FF7A00
+Secondary: #FFFFFF
+Accent: soft dark grey for text
+
+
+APPLE-STYLE SCROLL EXPERIENCE
+
+Add cinematic scrolling effects similar to Apple product websites.
+
+Use Framer Motion and intersection observers.
+
+Add:
+
+• Smooth section reveal animations
+• Fade + slide transitions
+• Scroll triggered animations
+• Parallax background layers
+• Smooth page transitions between routes
+
+
+3D HERO SECTION
+
+Improve the hero section on the home page.
+
+Add:
+
+• Floating food elements (subtle motion)
+• Animated gradient background
+• Parallax movement when scrolling
+• Depth layers behind text
+• Animated highlight effect on the headline
+
+Headline example:
+
+"Samaras — Authentic Taste. Modern Experience."
+
+Buttons:
+
+View Menu
+Contact Us
+
+Buttons should have glowing hover effects.
+
+
+HAMBURGER MENU IMPROVEMENT
+
+Improve the hamburger menu animation.
+
+When opened:
+
+• Full screen menu overlay
+• Smooth slide-in animation
+• Slight background blur
+• Large menu typography
+• Animated hover effects on links
+
+
+MENU PAGE IMPROVEMENT
+
+Improve food item cards.
+
+Add:
+
+• Image hover zoom effect
+• Card elevation
+• Soft shadow transitions
+• Modern grid layout
+
+
+SERVICES PAGE IMPROVEMENT
+
+Upgrade service cards with:
+
+• Icons
+• Hover lift animation
+• Subtle glow highlight
+
+
+CONTACT PAGE IMPROVEMENT
+
+Improve layout with:
+
+• Modern contact cards
+• WhatsApp button
+• Google Maps link
+• Clean spacing
+
+
+WHATSAPP BUTTON
+
+Improve floating WhatsApp button.
+
+Add:
+
+• Pulse animation
+• Hover glow effect
+• Smooth entrance animation on page load
+
+
+PERFORMANCE
+
+Ensure animations remain smooth and lightweight.
+
+Use:
+Framer Motion
+CSS transforms
+Hardware accelerated animations
+
+
+RESULT
+
+The final website should feel like a premium modern restaurant website similar to luxury brand landing pages.

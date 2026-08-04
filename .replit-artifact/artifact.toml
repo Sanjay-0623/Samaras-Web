@@ -1,0 +1,31 @@
+kind = "web"
+previewPath = "/"
+title = "Samaras Restaurant"
+version = "1.0.0"
+id = "artifacts/samaras"
+router = "path"
+
+[[integratedSkills]]
+name = "react-vite"
+version = "1.0.0"
+
+[[services]]
+localPort = 18239
+name = "web"
+paths = ["/"]
+
+[services.development]
+run = "pnpm --filter @workspace/samaras run dev"
+
+[services.env]
+PORT = "18239"
+BASE_PATH = "/"
+
+[services.production]
+build = ["pnpm", "--filter", "@workspace/samaras", "run", "build"]
+publicDir = "artifacts/samaras/dist/public"
+serve = "static"
+
+[[services.production.rewrites]]
+from = "/*"
+to = "/index.html"

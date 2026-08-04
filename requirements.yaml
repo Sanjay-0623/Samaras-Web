@@ -1,0 +1,18 @@
+packages:
+  "react-router-dom": "Standard routing library requested instead of wouter"
+  "framer-motion": "For smooth page transitions, scroll reveals, and 3D effects"
+  "react-icons": "For UI icons across the application"
+  "clsx": "Utility for constructing className strings conditionally"
+  "tailwind-merge": "Utility to merge tailwind classes safely"
+
+images:
+  - path: "artifacts/samaras/public/images/hero-bg.png"
+    description: "Dark moody abstract background with warm orange glows, subtle geometric depth, elegant and premium restaurant ambiance"
+    aspect_ratio: "16:9"
+  - path: "artifacts/samaras/public/images/about-img.png"
+    description: "Elegant dark modern restaurant interior with warm ambient lighting, highly detailed, photorealistic, premium feel"
+    aspect_ratio: "4:3"
+
+notes:
+  - "App is strictly dark themed as requested."
+  - "Using React Router DOM for routing."

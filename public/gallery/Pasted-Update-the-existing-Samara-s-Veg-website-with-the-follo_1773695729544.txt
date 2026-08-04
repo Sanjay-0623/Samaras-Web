@@ -1,0 +1,114 @@
+Update the existing Samara's Veg website with the following changes. Do not rebuild the project. Modify the current components.
+
+---
+
+HERO SECTION BACKGROUND
+
+Replace the current background (mountain/video) with something related to a vegetarian restaurant.
+
+Use either:
+• a looping video of chefs cooking vegetarian dishes in a kitchen
+OR
+• a high-quality image of Indian vegetarian food preparation.
+
+Examples of scenes:
+• chef making dosa on a tawa
+• preparing paneer curry
+• plating veg dishes
+• kitchen cooking scene
+
+Requirements:
+
+• keep a dark overlay for text readability
+• maintain the hero text animation
+• ensure the image/video is responsive
+• keep the parallax/animation effect
+
+---
+
+WHATSAPP BUTTON UPDATE
+
+Currently the WhatsApp button opens a branch selection.
+
+Update the branches as follows.
+
+Branch 1:
+
+Name:
+Chikkaballapura
+
+Number:
++91 8951454455
+
+WhatsApp link:
+https://wa.me/918951454455
+
+---
+
+Branch 2:
+
+Name:
+Bagepalli
+
+Number:
++91 9164117733
+
+WhatsApp link:
+https://wa.me/919164117733
+
+---
+
+Ensure when a user clicks a branch it opens the correct WhatsApp chat.
+
+---
+
+SOCIAL MEDIA LINKS
+
+Update the social media icons in the footer or contact section.
+
+Instagram:
+https://www.instagram.com/samarasveg?igsh=NHNhcjRnd29obzFh
+
+Facebook:
+https://www.facebook.com/share/18AnVPJqBA/
+
+Both links should open in a new browser tab.
+
+---
+
+GALLERY PAGE
+
+Add a new section called:
+
+Gallery
+
+This can be placed on the Home page or as a separate page.
+
+Gallery should display HD photos related to:
+
+• Indian vegetarian dishes
+• restaurant interior
+• kitchen cooking
+• plated food
+• dining area
+
+Gallery requirements:
+
+• responsive grid layout
+• image hover zoom effect
+• lightbox popup when clicking an image
+• smooth animation when images load
+
+Use high quality images (Unsplash or similar sources) related to Indian vegetarian food.
+
+---
+
+PERFORMANCE
+
+Optimize images so they load fast while maintaining HD quality.
+
+---
+
+RESULT
+
+The website should now feel like a real vegetarian restaurant website with kitchen visuals, proper branch contact options, working social links, and a professional food gallery.
